@@ -3,19 +3,16 @@
 
 /// ```
 /// println!("1"); // comment
-/// 
 /// # println!("2");
 /// ```
 struct S;
 
 /// println!("1"); // comment
-/// 
 /// # println!("2");
 struct S2;
 
 /// ```
 /// println!("1"); // comment
-/// 
 /// # println!("2");
 /// ```
 struct S3;
