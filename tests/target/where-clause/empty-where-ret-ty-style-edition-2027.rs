@@ -10,7 +10,6 @@ fn bar() -> () /* comment */ {}
 fn baz() -> () /* comment */ {}
 fn qux() -> () /* comment */ /* comment */ {}
 
-fn line_comments() -> () // c1
-where // c2
+fn line_comments() -> () // c1 // c2
 {
 }
