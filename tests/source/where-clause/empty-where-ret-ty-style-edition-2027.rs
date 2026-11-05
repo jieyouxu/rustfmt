@@ -9,3 +9,7 @@ fn foo() -> () where {}
 fn bar() -> () /* comment */ where {}
 fn baz() -> () where /* comment */ {}
 fn qux() -> () /* comment */ where /* comment */ {}
+
+fn line_comments() -> () // c1
+where // c2
+{}
